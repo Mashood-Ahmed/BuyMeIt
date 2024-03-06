@@ -1,0 +1,1 @@
+export const Banner = require('./salebanner.jpg');
